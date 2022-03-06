@@ -1,0 +1,13 @@
+name: Chess_Project
+title: Chess_Project
+username:
+account: arkadiusz-kniaz-projects
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5676563
+bundleId: 5590380
+url: https://arkadiusz-kniaz-projects.shinyapps.io/Chess_Project/
+when: 1645116123.70063
+lastSyncTime: 1645116123.70063
+asMultiple: FALSE
+asStatic: FALSE
